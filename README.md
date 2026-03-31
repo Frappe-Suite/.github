@@ -2,14 +2,8 @@
 
 <img src="https://github.com/Frappe-Suite/.github/blob/970c96a266ce473de72b56c4c0d444449d8e4b59/logo.png" alt="Frappe Suite Logo" width="450" />
 
-### A curated ecosystem of software projects built for usability, high performance, and efficiency.
-
----
-
-## About Us
-
-Frappe Suite serves as the central hub for all development under the brand.<br>
-Projects are built with an emphasis on simplicity, maintainability, and long-term usability.<br>
+# Frappe Suite
+#### A curated ecosystem of software projects built for usability, high performance, and efficiency.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -20,6 +14,13 @@ Projects are built with an emphasis on simplicity, maintainability, and long-ter
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+## About Us
+
+Frappe Suite serves as the central hub for all development under the brand.<br>
+Projects are built with an emphasis on simplicity, maintainability, and long-term usability.<br>
 
 ---
 
